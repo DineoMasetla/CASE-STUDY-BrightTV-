@@ -1,6 +1,6 @@
 # CASE-STUDY-BrightTV-
 
-#Project Background
+# Project Background
 BrightTV is a South African subscription-based streaming and broadcast television platform operating in the media and entertainment industry. The business model is subscription-driven -- revenue depends directly on the size and engagement of the active subscriber base. Key business metrics include total active subscribers, session volume, hours watched per subscriber, and channel-level consumption share.
 
 As the data analyst working at BrightTV, I was approached by the CEO and the Customer Value Management (CVM) team to analyse Q1 2016 viewership and subscriber data. The objective is to uncover consumption trends, identify what drives viewing behaviour, and produce actionable recommendations to grow the subscription base for the current financial year.
