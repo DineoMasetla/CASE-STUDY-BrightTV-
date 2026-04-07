@@ -7,6 +7,9 @@ As the data analyst working at BrightTV, I was approached by the CEO and the Cus
 
 # Insights and recommendations are provided on the following key areas:
 Category 1:   Consumption Trends -- Session volumes, hours watched, and monthly growth patterns across Q1 2016
+
 Category 2:  Content and Channel Performance -- Which channels drive the most hours and the deepest engagement
+
 Category 3:   Subscriber Demographics -- How age, gender, race, and province shape viewing behaviour
+
 Category 4:   Growth and Retention Opportunities -- Dormant subscribers, engagement tiers, and low-consumption day patterns
